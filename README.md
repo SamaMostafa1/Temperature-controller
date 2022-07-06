@@ -1,1 +1,1 @@
-#Temperature controll system
+#Temperature control system
