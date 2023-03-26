@@ -5,11 +5,11 @@
 - [Introduction](#introduction)
 - [Project Features](#project-features)
 - [Project Structure](#project-structure)
-- [How to Run The Project](#run-the-project)
-- [Team](#team)
+-
 
 ### Introduction
 Thisproject Implement  Stop Watch system.
+>
 *First: The components*
 >
     1. Use ATmega32 Microcontroller with frequency 1Mhz.
